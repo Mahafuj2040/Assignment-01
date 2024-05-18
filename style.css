@@ -1,0 +1,153 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+    color: white;
+}
+
+/* Nav Start */
+.nav-resize{
+    margin-top: 20px;
+    padding: 15px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-bottom: 100px;
+}
+
+.nav-logo{
+    width: 100px;
+    height: 70px;
+}
+
+/* Nav End */
+
+
+
+/* Intro start */
+.Introduce-Section{
+    justify-content: center;
+    justify-content: space-around;
+    text-align: center;
+    margin-left:100px;
+    margin-right: 100px;
+    padding-top: 100px;
+}
+
+.itro-img{
+    width: 500px;
+}
+.intro-des{
+    color: rgb(254, 254, 147);
+    font-size: 60px;
+}
+.intro-des-1{
+    margin-top: 30px;
+    font-size: 20px;
+}
+.bottom-side-link{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.icon-link:hover{
+    cursor: pointer;
+    background-color: aqua;
+    color: black;
+}
+.icon-link{
+    color: rgb(67, 192, 237);
+}
+/* Intro End */
+
+
+
+
+
+/* Expertise Start */
+
+.Expartise-section-div{
+    margin: 50px;
+    gap: 90px;
+    padding: 15px;
+    justify-content: space-around;
+    justify-content: center;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+.button-1{
+    justify-content: left;
+    padding-left: 80px;
+    gap: 15px;
+}
+/* Expertise End */
+
+/* Contact Section Start */
+.Cntact-section{
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 15px;
+    /* box-shadow: 0 4px 8px 0 rgba(215, 218, 218, 0.2), 0 6px 20px 0 rgba(230, 234, 235, 0.19); */
+}
+.contact-resize{
+    margin-left: 90px;
+    margin-right: 90px;
+    padding: 30px;
+    box-shadow: 1px 4px 8px 1px rgba(215, 218, 218, 0.2), 1px 6px 20px 1px rgba(230, 234, 235, 0.19);
+}
+.contact-in{
+    margin-bottom: 50px;
+}
+
+
+
+/* Contact Section End */
+
+
+/* Project Section */
+.project-section{
+    /* padding: 10px;
+    margin: 15px; */
+    justify-content: space-between;
+    width: 75%;
+    margin: 100px;
+}
+
+.card-des {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.card-container {
+    border: 1px solid rgb(217, 236, 240);
+    border-radius: 10px;
+
+}
+
+.btn-gap11 {
+    display: flex;
+    gap: 30px;
+    margin-bottom: 20px;
+}
+/* End project section */
+
+
+/* footer */
+hr.style2 {
+    border-top: 4px double white;
+}
+footer{
+    height: 200px;
+    width: 100%;
+}
+.copy1{
+    margin: 10px;
+    padding: 15px;
+    justify-content: center;
+    justify-content: space-around;
+    text-align: center;
+}
